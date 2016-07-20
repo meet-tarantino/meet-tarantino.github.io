@@ -7524,9 +7524,9 @@ webpackJsonp([1],{
 /***/ 725:
 /***/ function(module, exports) {
 
-  module.exports = {"html":"<p>Increase your team's productivity by sharing workspaces for integrating microservices and encourage developers to leverager monitoring tools at development time.</p>\n<p>Create and destroy Docker containers, easily browse containerized web apps and encourage early integration with operational tools you use in production.</p>\n<p><strong>Increase productivity via:</strong></p>\n<ul>\n<li>sharing pre-configured workspaces with your team</li>\n<li>consistency across developers</li>\n<li>automated container creation/teardown of all your dependency services</li>\n<li>supports experiencing services running with production-like operational tools (logging, stats, etc..)</li>\n<li>encourages reproducible environments</li>\n<li>quicker onboarding</li>\n<li>docker achieves a &quot;Works on My Machine&quot; experience</li>\n</ul>\n"};
+  module.exports = {"html":"<p>OYOOOO Increase your team's productivity by sharing workspaces for integrating microservices and encourage developers to leverager monitoring tools at development time.</p>\n<p>Create and destroy Docker containers, easily browse containerized web apps and encourage early integration with operational tools you use in production.</p>\n<p><strong>Increase productivity via:</strong></p>\n<ul>\n<li>sharing pre-configured workspaces with your team</li>\n<li>consistency across developers</li>\n<li>automated container creation/teardown of all your dependency services</li>\n<li>supports experiencing services running with production-like operational tools (logging, stats, etc..)</li>\n<li>encourages reproducible environments</li>\n<li>quicker onboarding</li>\n<li>docker achieves a &quot;Works on My Machine&quot; experience</li>\n</ul>\n"};
 
 /***/ }
 
 });
-//# sourceMappingURL=1.js.map?62cd2809598dcbf849b0
+//# sourceMappingURL=1.js.map?7bce70256afc73e85677
